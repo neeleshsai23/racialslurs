@@ -1,3 +1,1 @@
-Hello Nigga
-Hello terrorist
-Hello Blacky
+tweets seperated by a line
